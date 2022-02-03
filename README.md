@@ -25,7 +25,7 @@ HTML         13 mins         ▓░░░░░░░░░░░░░░░░
 
 ## What I'm working on
 
-* __#100daysofcode__ - asides from university work, trying to code at least a bit every day for 100 days. As good a New Year's resolution as any.
+* __#100daysofcode__ - asides from university work, trying to code at least a bit for 100 days this year. As good a New Year's resolution as any.
 * __Personal website__ is in the works!
 
 ## 💻 Currently Learning
