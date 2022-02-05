@@ -11,7 +11,7 @@ const about_me = {
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 January, 2022 - 03 February, 2022
+Week: 29 January, 2022 - 04 February, 2022
 
 JavaScript   4 hrs 31 mins   ████████████████▒░░░░░░░░   65.66 % 
 C            50 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
