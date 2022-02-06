@@ -11,13 +11,13 @@ const about_me = {
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 January, 2022 - 04 February, 2022
+Week: 30 January, 2022 - 05 February, 2022
 
-JavaScript   4 hrs 31 mins   ████████████████▒░░░░░░░░   65.66 % 
-C            50 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-CSS          38 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
-Text         24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-HTML         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+JavaScript   4 hrs 31 mins   ████████████████▒░░░░░░░░   65.64 % 
+C            50 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+CSS          38 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+Text         24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+HTML         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
 ```
 <!--END_SECTION:waka-->
 <img src="https://github-readme-stats.vercel.app/api?username=mai-soup&show_icons=true&theme=gruvbox" />
