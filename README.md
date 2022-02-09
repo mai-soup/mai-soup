@@ -11,7 +11,7 @@ const about_me = {
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 February, 2022 - 07 February, 2022
+Week: 02 February, 2022 - 08 February, 2022
 
 C       4 hrs 41 mins   ████████████████████████░   95.36 % 
 Other   13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
