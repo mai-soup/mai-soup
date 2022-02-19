@@ -11,7 +11,7 @@ const about_me = {
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 February, 2022 - 17 February, 2022
+Week: 12 February, 2022 - 18 February, 2022
 
 Total: 3 hrs 4 mins
 
