@@ -11,7 +11,7 @@ const about_me = {
 
 <!--START_SECTION:waka-->
 ```text
-From: 15 February, 2022 - To: 21 February, 2022
+From: 16 February, 2022 - To: 22 February, 2022
 
 HTML         35 mins         █████████▓░░░░░░░░░░░░░░░   38.67 % 
 Python       26 mins         ███████░░░░░░░░░░░░░░░░░░   28.37 % 
