@@ -12,7 +12,7 @@ const about_me = {
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 March 2022 - To: 08 March 2022
+From: 03 March 2022 - To: 09 March 2022
 
 Python       1 hr 7 mins     ████████████████▓░░░░░░░░   66.77 %
 C            28 mins         ███████░░░░░░░░░░░░░░░░░░   28.00 %
