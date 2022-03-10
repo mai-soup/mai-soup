@@ -5,7 +5,8 @@
 ```javascript
 const about_me = {
   name: "Mai",
-  pronouns: "he/him"
+  pronouns: "he/him",
+  website: "mai-soup.github.io"
 }
 ```
 
@@ -28,7 +29,6 @@ Other        0 secs          ▒░░░░░░░░░░░░░░░░
 ## What I'm working on
 
 * __#100daysofcode__ - asides from university work, trying to code at least a bit for 100 days this year. As good a New Year's resolution as any.
-* __Personal website__ is in the works!
 
 ## 💻 Currently Learning
 
