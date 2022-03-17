@@ -13,7 +13,7 @@ const about_me = {
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 March 2022 - To: 15 March 2022
+From: 10 March 2022 - To: 16 March 2022
 
 C                3 hrs 35 mins   █████████░░░░░░░░░░░░░░░░   35.51 %
 Java             2 hrs 28 mins   ██████░░░░░░░░░░░░░░░░░░░   24.41 %
