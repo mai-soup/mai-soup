@@ -24,8 +24,8 @@ Other    0 secs          ░░░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-<img src="https://github-readme-stats.vercel.app/api?username=mai-soup&show_icons=true&theme=gruvbox" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mai-soup&langs_count=8&layout=compact&theme=gruvbox" />
+<!--<img src="https://github-readme-stats.vercel.app/api?username=mai-soup&show_icons=true&theme=gruvbox" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mai-soup&langs_count=8&layout=compact&theme=gruvbox" />-->
 
 ## What I'm working on
 
