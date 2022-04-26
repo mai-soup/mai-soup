@@ -13,11 +13,11 @@ const about_me = {
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 April 2022 - To: 24 April 2022
+From: 18 April 2022 - To: 25 April 2022
 
-Python   2 hrs 55 mins   ████████████████████▓░░░░   83.01 %
-C        33 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.94 %
-Other    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+Python   3 hrs 39 mins   █████████████████████▒░░░   85.96 %
+C        33 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.17 %
+Other    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 ```
 
 <!--END_SECTION:waka-->
