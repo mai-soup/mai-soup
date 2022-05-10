@@ -13,10 +13,7 @@ const about_me = {
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 May 2022 - To: 08 May 2022
-
-Python       1 hr 28 mins    ███████████████████████▒░   93.51 %
-Git Config   6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
