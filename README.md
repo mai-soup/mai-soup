@@ -13,7 +13,7 @@ const about_me = {
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 June 2022 - To: 12 June 2022
+From: 06 June 2022 - To: 13 June 2022
 
 CSS          58 mins         ████████████░░░░░░░░░░░░░   48.16 %
 HTML         38 mins         ████████░░░░░░░░░░░░░░░░░   31.55 %
