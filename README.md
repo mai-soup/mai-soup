@@ -13,12 +13,10 @@ const about_me = {
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 June 2022 - To: 14 June 2022
+From: 08 June 2022 - To: 15 June 2022
 
-JavaScript   2 hrs 20 mins   ███████████████░░░░░░░░░░   59.38 %
-CSS          58 mins         ██████░░░░░░░░░░░░░░░░░░░   24.52 %
-HTML         38 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.07 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+JavaScript   1 hr 56 mins    █████████████████████████   100.00 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
