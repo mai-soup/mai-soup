@@ -13,7 +13,12 @@ const about_me = {
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 25 June 2022 - To: 02 July 2022
+
+Java             3 hrs 21 mins   ████████████████████████░   96.24 %
+Properties       5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+Groovy           1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
 
 <!--END_SECTION:waka-->
