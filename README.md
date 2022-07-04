@@ -13,12 +13,13 @@ const about_me = {
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 June 2022 - To: 02 July 2022
+From: 26 June 2022 - To: 03 July 2022
 
-Java             3 hrs 21 mins   ████████████████████████░   96.24 %
-Properties       5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
-Groovy           1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
-GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+Java             4 hrs 22 mins   ████████████████████▓░░░░   82.49 %
+Groovy           23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
+Properties       16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
+GitIgnore file   15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
+Shell Script     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
