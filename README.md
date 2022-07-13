@@ -13,7 +13,7 @@ const about_me = {
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 July 2022 - To: 11 July 2022
+From: 05 July 2022 - To: 12 July 2022
 
 Java             4 hrs 30 mins   ██████████████▒░░░░░░░░░░   56.78 %
 XML              1 hr 15 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.81 %
