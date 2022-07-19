@@ -13,7 +13,7 @@ const about_me = {
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 July 2022 - To: 17 July 2022
+From: 11 July 2022 - To: 18 July 2022
 
 JavaScript   21 mins         █████████████████████████   100.00 %
 ```
