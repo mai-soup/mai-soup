@@ -35,7 +35,7 @@ No activity tracked
 * COMP3931 Individual Project - spans both semesters
 
 ### Other
-* [freeCodeCamp](https://www.freecodecamp.org/) (currently up to and including Data Analysis with Python, as well as the Relational Database course.
+* [freeCodeCamp](https://www.freecodecamp.org/) (currently up to and including Data Analysis with Python, as well as the Relational Database course)
 * Playing around with Node.js and Express in my free time
 * Learning about QBasic, mainly to appreciate how modern programming languages have evolved
 * Reading on the theory of software engineering, including Agile methods and project management
