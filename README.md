@@ -26,15 +26,17 @@ No activity tracked
 
 ## 💻 Currently Learning
 
-### University of Leeds
-* COMP2221 Networks
-* COMP2321 Formal Languages and Finite Automata
-* COMP2611 Artificial Intelligence
-* COMP2721 Algorithms and Data Structures II
-* COMP2913 Software Engineering Project
-* COMP2932 Compiler Design and Construction
+### University of Leeds - upcoming semester
+* COMP3211 Distributed Systems
+* COMP3736 Information Visualization
+* COMP3611 Machine Learning
+* COMP3940 Graph Algorithms and Complexity Theory
+* COMP3911 Secure Computing
+* COMP3931 Individual Project - spans both semesters
 
 ### Other
-* [freeCodeCamp](https://www.freecodecamp.org/) (currently up to and including Data Analysis with Python, as well as the yet-to-be-released Relational Database course.
+* [freeCodeCamp](https://www.freecodecamp.org/) (currently up to and including Data Analysis with Python, as well as the Relational Database course.
 * Playing around with Node.js and Express in my free time
-* Looking forward to starting coding in Kotlin.
+* Learning about QBasic, mainly to appreciate how modern programming languages have evolved
+* Reading on the theory of software engineering, including Agile methods and project management
+* Exploring the fundamentals on networking and the Web, inspired by the Networks module I took last year.
