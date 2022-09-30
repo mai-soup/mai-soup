@@ -13,10 +13,9 @@ const about_me = {
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 September 2022 - To: 28 September 2022
+From: 22 September 2022 - To: 29 September 2022
 
-C#      9 hrs 59 mins   ████████████████████████▒   97.60 %
-Unity   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+C#   8 hrs 17 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
