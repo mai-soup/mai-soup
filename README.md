@@ -28,16 +28,8 @@ C#   2 hrs 5 mins    ███████████████████�
 
 ## 💻 Currently Learning
 
-### University of Leeds - upcoming semester
-* COMP3211 Distributed Systems
-* COMP3736 Information Visualization
-* COMP3611 Machine Learning
-* COMP3940 Graph Algorithms and Complexity Theory
-* COMP3911 Secure Computing
-* COMP3931 Individual Project - spans both semesters
-
-### Other
 * [freeCodeCamp](https://www.freecodecamp.org/) (currently up to and including Data Analysis with Python, as well as the Relational Database course)
+* Getting started with 2D game development in Unity, only following tutorials for now to understand how it works but looking forward to making my own original stuff
 * Playing around with Node.js and Express in my free time
 * Reading on the theory of software engineering, including Agile methods and project management
 * Exploring the fundamentals of networking and the Web, inspired by the Networks module I took last year.
