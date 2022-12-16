@@ -13,9 +13,9 @@ const about_me = {
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 December 2022 - To: 13 December 2022
+From: 08 December 2022 - To: 14 December 2022
 
-GDScript   3 hrs 30 mins   █████████████████████████   100.00 %
+GDScript   28 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
