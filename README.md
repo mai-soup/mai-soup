@@ -19,6 +19,6 @@ const about_me = {
 
 * [freeCodeCamp](https://www.freecodecamp.org/) (currently up to and including Data Analysis with Python, as well as the Relational Database course)
 * Getting started with 2D game development in ~~Unity~~ Godot
-* Brushing up on web development, including Express and Node.js
+* Brushing up on web development, including Express and Node.js. About to learn React too, possibly to start coding with React Native down the line.
 * Reading on the theory of software engineering, including Agile methods and project management
 * Exploring the fundamentals of networking and the Web, inspired by the Networks module I took last year.
