@@ -13,7 +13,7 @@ const about_me = {
 ## What I'm working on
 
 * **[Madness of Warblade](https://github.com/mai-soup/madness-of-warblade)** - working on my first game using Godot, a short dungeon crawler
-* Working on expanding my web dev portfolio while looking for a job
+* Expanding my web dev portfolio while looking for a job - currently working on a site called **[YelpCamp](https://github.com/mai-soup/yelpcamp)**
 
 ## 💻 Currently Learning
 
