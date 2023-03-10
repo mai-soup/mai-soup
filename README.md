@@ -13,7 +13,7 @@ const about_me = {
 ## What I'm working on
 
 * **[Madness of Warblade](https://github.com/mai-soup/madness-of-warblade)** - working on my first game using Godot, a short dungeon crawler
-* Expanding my web dev portfolio while looking for a job - currently working on a site called **[YelpCamp](https://github.com/mai-soup/yelpcamp)**
+* Expanding my web dev portfolio while looking for a job - currently working on a site called **[YelpCamp](https://github.com/mai-soup/yelpcamp)** as well as polishing up a **[colour picker I made using React](https://react-colour-picker.vercel.app/)**
 
 ## 💻 Currently Learning
 
