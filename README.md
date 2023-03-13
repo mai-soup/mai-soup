@@ -14,6 +14,7 @@ const about_me = {
 
 * **[Madness of Warblade](https://github.com/mai-soup/madness-of-warblade)** - working on my first game using Godot, a short dungeon crawler
 * Expanding my web dev portfolio while looking for a job - currently working on a site called **[YelpCamp](https://github.com/mai-soup/yelpcamp)** as well as polishing up a **[colour picker I made using React](https://react-colour-picker.vercel.app/)**
+* Doing the  100 days of code challenge! [View my progress here](https://github.com/mai-soup/100-days-of-code/blob/master/log.md)
 
 ## 💻 Currently Learning
 
