@@ -1,19 +1,21 @@
-# Hey there! I'm Mai - a Computer Science student at the University of Leeds.
+# Hey there! I'm Mai - an aspiring Front-End Developer
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=mai-soup.mai-soup)
 
 ```javascript
-const about_me = {
+const aboutMe = {
   name: "Mai",
   pronouns: "he/him",
-  website: "mai-soup.github.io"
+  website: "mai-soup.github.io",
+  projects: "mai-soup.github.io/projects",
+  technologies: ["HTML", "CSS", "JS", "React", "Node", "Express", "MongoDB", "Bootstrap", "Tailwind", ...others]
 }
 ```
 
 ## What I'm working on
 
+* **Expanding my web dev portfolio** while looking to get hired - going through Frontend Mentor, polishing up a full-stack project called **[YelpCamp](https://github.com/mai-soup/yelpcamp)** as well as a **[colour picker I made using React](https://react-colour-picker.vercel.app/)**.
 * **[Madness of Warblade](https://github.com/mai-soup/madness-of-warblade)** - working on my first game using Godot, a short dungeon crawler
-* Expanding my web dev portfolio while looking for a job - currently working on a site called **[YelpCamp](https://github.com/mai-soup/yelpcamp)** as well as polishing up a **[colour picker I made using React](https://react-colour-picker.vercel.app/)**
 * Doing the  100 days of code challenge! [View my progress here](https://github.com/mai-soup/100-days-of-code/blob/master/log.md)
 
 ## 💻 Currently Learning
@@ -22,4 +24,4 @@ const about_me = {
 * Getting started with 2D game development in ~~Unity~~ Godot
 * Brushing up on web development, mostly React but also Express and Node.js to be able to make my own projects.
 * Reading on the theory of software engineering, including Agile methods and project management
-* Exploring the fundamentals of networking and the Web, inspired by the Networks module I took last year.
+* Exploring the fundamentals of networking and the Web, inspired by the Networks module I took during my time at university.
