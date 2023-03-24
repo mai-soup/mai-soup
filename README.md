@@ -7,14 +7,14 @@ const aboutMe = {
   name: "Mai",
   pronouns: "he/him",
   website: "mai-soup.github.io",
-  projects: "mai-soup.github.io/projects",
+  portfolio: "mai-soup.github.io/portfolio",
   technologies: ["HTML", "CSS", "JS", "React", "Node", "Express", "MongoDB", "Bootstrap", "Tailwind", ...others]
 }
 ```
 
 ## What I'm working on
 
-* **Expanding my web dev portfolio** while looking to get hired - going through Frontend Mentor, polishing up a full-stack project called **[YelpCamp](https://github.com/mai-soup/yelpcamp)** as well as a **[colour picker I made using React](https://react-colour-picker.vercel.app/)**.
+* **Expanding my web dev portfolio** while looking to get hired. [Use this link to see it](https://mai-soup.github.io/portfolio)
 * **[Madness of Warblade](https://github.com/mai-soup/madness-of-warblade)** - working on my first game using Godot, a short dungeon crawler
 * Doing the  100 days of code challenge! [View my progress here](https://github.com/mai-soup/100-days-of-code/blob/master/log.md)
 
