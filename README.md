@@ -7,14 +7,14 @@ const aboutMe = {
   name: "Mai",
   pronouns: "he/him",
   website: "mai-soup.github.io",
-  portfolio: "mai-soup.github.io/portfolio",
+  portfolio: "https://maijsgarais.com/",
   technologies: ["HTML", "CSS", "JS", "React", "Node", "Express", "MongoDB", "Bootstrap", "Tailwind", ...others]
 }
 ```
 
 ## What I'm working on
 
-* **Expanding [my web dev portfolio](https://mai-soup.github.io/portfolio)** while looking to get hired.
+* **Expanding [my web dev portfolio](https://maijsgarais.com/)** while looking to get hired.
 * Doing the 100 days of code challenge! [View my progress here](https://github.com/mai-soup/100-days-of-code/blob/master/log.md)
 * **[Madness of Warblade](https://github.com/mai-soup/madness-of-warblade)** - WIP, my first game using Godot, a short dungeon crawler
 
