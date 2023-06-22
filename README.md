@@ -22,4 +22,3 @@ const aboutMe = {
 
 * Getting started with 2D game development in ~~Unity~~ Godot
 * Reading on the theory of software engineering, including Agile methods and project management
-* Getting started with Electron to add a GUI for a CLI project using Node that's been sitting on my hard drive way too long.
