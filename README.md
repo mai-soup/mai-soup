@@ -14,11 +14,11 @@ const aboutMe = {
 
 ## What I'm working on
 
+* The graduation project for the software engineering course I'm taking
 * **Expanding [my web dev portfolio](https://maijsgarais.com/)** while looking to get hired.
-* Doing the 100 days of code challenge! [View my progress here](https://github.com/mai-soup/100-days-of-code/blob/master/log.md)
-* **[Madness of Warblade](https://github.com/mai-soup/madness-of-warblade)** - WIP, my first game using Godot, a short dungeon crawler
 
 ## 💻 Currently Learning
 
-* Getting started with 2D game development in ~~Unity~~ Godot
+* A lot about the MERN stack by diving head-first into practical projects
 * Reading on the theory of software engineering, including Agile methods and project management
+* Good practices - talking to and hanging out with more senior developers to pick up their good habits
