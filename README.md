@@ -1,4 +1,4 @@
-# Hey there! I'm Mai - an aspiring Front-End Developer
+# Hey there! I'm Maijs - a web developer.
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=mai-soup.mai-soup)
 
@@ -6,7 +6,6 @@
 const aboutMe = {
   name: "Mai",
   pronouns: "he/him",
-  website: "mai-soup.github.io",
   portfolio: "https://maijsgarais.com/",
   technologies: ["HTML", "CSS", "JS", "React", "Node", "Express", "MongoDB", "Bootstrap", "Tailwind", ...others]
 }
