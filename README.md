@@ -13,7 +13,7 @@ const aboutMe = {
 
 ## What I'm working on
 
-* The graduation project for the software engineering course I'm taking
+* Polishing the graduation project for the software engineering course I took over the summer.
 * **Expanding [my web dev portfolio](https://maijsgarais.com/)** while looking to get hired.
 
 ## 💻 Currently Learning
