@@ -4,7 +4,7 @@
 
 ```javascript
 const aboutMe = {
-  name: "Mai",
+  name: "Maijs",
   pronouns: "he/him",
   portfolio: "https://maijsgarais.com/",
   technologies: ["HTML", "CSS", "JS", "React", "Node", "Express", "MongoDB", "Bootstrap", "Tailwind", ...others]
