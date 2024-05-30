@@ -6,15 +6,15 @@
 const aboutMe = {
   name: "Maijs",
   pronouns: "he/him",
-  portfolio: "https://maijsgarais.com/",
-  technologies: ["HTML", "CSS", "JS", "React", "Node", "Express", "MongoDB", "Bootstrap", "Tailwind", ...others]
+  portfolio: "https://maijs.dev/",
+  technologies: ["HTML", "CSS", "JS", "React", "Vue", "Node", "Express", "MongoDB", "Bootstrap", "Tailwind", ...others]
 }
 ```
 
 ## What I'm working on
 
 * Polishing the graduation project for the software engineering course I took over the summer.
-* **Expanding [my web dev portfolio](https://maijsgarais.com/)** while looking to get hired.
+* **Expanding [my web dev portfolio](https://maijs.dev/)** while looking to get hired.
 
 ## 💻 Currently Learning
 
